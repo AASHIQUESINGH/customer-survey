@@ -24,7 +24,7 @@ const Survey = () => {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
     } else {
       setShowConfirmation(true); 
-    }
+    }git 
   };
 
   const handlePrevious = () => {
